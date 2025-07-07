@@ -28,7 +28,7 @@ Conclusion
 This Java program effectively demonstrates basic file operations, which are crucial for many software applications. Understanding how to read, write, and modify files allows developers to create more dynamic and interactive applications. The program is well-documented, making it easy for others to understand its functionality and purpose. By mastering these file operations, developers can handle data more effectively, leading to improved application performance and user experience.
 
 **OUTPUT**
-
+[Task-1 output.txt](https://github.com/user-attachments/files/21105046/Task-1.output.txt)
 
 
 
